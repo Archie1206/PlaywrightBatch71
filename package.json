@@ -15,7 +15,8 @@
   },
   "homepage": "https://github.com/Archie1206/PlaywrightBatch71#readme",
   "dependencies": {
-    "playwright": "^1.64.1"
+    "playwright": "^1.64.1",
+    "prompt-sync": "^4.2.0"
   },
   "devDependencies": {
     "@playwright/test": "^1.64.1",
